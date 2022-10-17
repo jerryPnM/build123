@@ -1,0 +1,13 @@
+.App{
+    font-family: "Hachi Maru Pop", cursive;
+    display: flex;
+    padding: 25px;
+}
+.App #certificateWrapper p{
+  font-family: "Staatliches", cursive;
+  margin: 0;
+  position: absolute;
+  left: 120px;
+  top: 500px;
+  font-size: 40pt;
+}
